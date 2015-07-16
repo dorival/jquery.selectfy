@@ -13,7 +13,7 @@ The goal of Selectfy is to provide a simplistic framework to power user selectio
 * Usefull functions
 
 ## How to setup
-The most simplistic way to enable Selectfy is by using having a HTML container and a list of immidiate children elements with an attribute ```data-selectable```. This attribute is customizable, but will be further discussed in the wiki.
+The most simplistic way to enable Selectfy is having a HTML container and a collection of immidiate children elements with an attribute ```data-selectable```. This attribute is customizable, but will be further discussed in the wiki.
 
 ```html
 <div id="ListBox">
