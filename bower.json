@@ -1,0 +1,33 @@
+{
+  "name": "jquery-selectfy",
+  "version": "1.0.0",
+  "title": "jQuery Simplified User Selection Framework",
+  "description": "Lightweight plugin to enable user-click selection to a HTML element.",
+  "main": ["dist/jquery.selectfy.min.js"],
+  "homepage": "https://github.com/dorival/jquery.selectfy",
+  "dependencies": {
+    "jquery": ">=2.1"
+  },
+  "author": {
+	"name": "Dorival Neto",
+	"email": "dorivaltn@gmail.com",
+	"url": "http://dteixeira.com/"
+  },
+  "maintainers": [
+    {
+	  "name": "Dorival Neto",
+	  "email": "dorivaltn@gmail.com",
+	  "url": "http://dteixeira.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dorival/jquery.selectfy.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
