@@ -1,4 +1,7 @@
 # jQuery.selectfy
+
+> 🗃 This repository is archived and not supported anymore.
+
 A simple jQuery plugin to make list of elements selectable. This plugin is in its initial release and ready to be public tested. There are a bunch of features that could be included but it was left for next updates to keep this initial version simple.
 
 The goal of Selectfy is to provide a simplistic framework to power user selection. The plugin does not interfer with your design by adding unsolicitaded CSS files or tying you to prefab CSS names. This will give you flexibility to make minimal to no changes to your original CSS.
